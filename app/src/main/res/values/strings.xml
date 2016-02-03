@@ -3,4 +3,7 @@
     <string name="action_clear">Clear</string>
     <string name="search_an_album">Search an Album</string>
     <string name="text_search">Search</string>
+    <string name="listview_empty">There are no albums found in the list</string>
+    <string name="BandName">Band Name</string>
+    <string name="albumName">Album Name</string>
 </resources>
